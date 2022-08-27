@@ -9,7 +9,7 @@ I've been learning how to code for that year 2021 started with HTML, CSS and Jav
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My portfolio](http://loatemophuting.netlifly)
 * ✉️  You can contact me at [loatemophuting@gmail.com](mailto:loatemophuting@gmail.com)
-* 🧠  I'm learning C# JAVA
+* 🧠  I'm learning C# JAVASCRIPT
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
