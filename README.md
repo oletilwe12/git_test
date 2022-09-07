@@ -4,7 +4,7 @@ Hi 👋 My name is Oletilwe Mophuting
 Software Developer
 ------------------
 
-I've been learning how to code for that year 2021 started with HTML, CSS and JavaScript Currently learning C#
+I've been learning how to code from the year 2021 started with HTML, CSS and JavaScript. Currently learning ReactJS
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My portfolio](http://loatemophuting.netlifly)
